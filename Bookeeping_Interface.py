@@ -282,3 +282,6 @@ def main_interface():
 
     main_menu_frame()
     window.mainloop()
+
+if __name__ == "__main__":
+    main_interface()
